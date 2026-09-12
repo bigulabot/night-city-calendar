@@ -1,7 +1,7 @@
 {
   "version": 1,
   "campaignId": "night-city-2045",
-  "revision": "1789237894596-rdlfne8skv",
+  "revision": "1789238438639-eh505ppgrji",
   "currentDay": "2045-08-08",
   "events": [
     {
@@ -10,8 +10,8 @@
       "type": "gig",
       "start": "2045-08-02",
       "end": "2045-08-02",
-      "played": "",
-      "notes": "Crew received gig from Father Kevin to secure and deliver cache of old tech for community"
+      "notes": "Crew received gig from Father Kevin to secure and deliver cache of old tech for community",
+      "played": ""
     },
     {
       "id": "event-1789237870133-2ur2ba6ahpf",
@@ -19,8 +19,17 @@
       "type": "gig",
       "start": "2045-08-05",
       "end": "2045-08-08",
+      "notes": "Crew investigates the supposed kidnapping of of Aisha. ",
+      "played": ""
+    },
+    {
+      "id": "event-1789238438636-c27p70d5jjk",
+      "title": "RENT!!!",
+      "type": "deadline",
+      "start": "2045-09-01",
+      "end": "2045-09-01",
       "played": "",
-      "notes": "Crew investigates the supposed kidnapping of of Aisha. "
+      "notes": ""
     }
   ]
 }
