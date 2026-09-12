@@ -1,7 +1,7 @@
 {
   "version": 1,
   "campaignId": "night-city-2045",
-  "revision": "1789237684033-rbmlvmhuff",
+  "revision": "1789237796057-0el6qkglza",
   "currentDay": "2045-08-08",
   "events": [
     {
@@ -12,6 +12,15 @@
       "end": "2045-08-01",
       "played": "",
       "notes": ""
+    },
+    {
+      "id": "event-1789237796053-uq7wli7jixf",
+      "title": "Father Kevin needs help!",
+      "type": "session",
+      "start": "2045-08-02",
+      "end": "2045-08-02",
+      "played": "",
+      "notes": "Crew received gig from Father Kevin to secure and deliver cache of old tech for community"
     }
   ]
 }
