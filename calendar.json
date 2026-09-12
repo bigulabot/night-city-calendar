@@ -1,7 +1,17 @@
 {
   "version": 1,
   "campaignId": "night-city-2045",
-  "revision": "1789237655723-t59yli68diq",
+  "revision": "1789237684033-rbmlvmhuff",
   "currentDay": "2045-08-08",
-  "events": []
+  "events": [
+    {
+      "id": "event-1789237684031-dawixqjir6f",
+      "title": "Session 1",
+      "type": "session",
+      "start": "2045-08-01",
+      "end": "2045-08-01",
+      "played": "",
+      "notes": ""
+    }
+  ]
 }
