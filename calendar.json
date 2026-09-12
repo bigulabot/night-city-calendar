@@ -1,7 +1,7 @@
 {
   "version": 1,
   "campaignId": "night-city-2045",
-  "revision": "1789237801252-5exkqe8ez9i",
+  "revision": "1789237870136-egr20lnadf9",
   "currentDay": "2045-08-08",
   "events": [
     {
@@ -12,6 +12,15 @@
       "end": "2045-08-02",
       "played": "",
       "notes": "Crew received gig from Father Kevin to secure and deliver cache of old tech for community"
+    },
+    {
+      "id": "event-1789237870133-2ur2ba6ahpf",
+      "title": "Agents of Desire",
+      "type": "session",
+      "start": "2045-08-05",
+      "end": "2045-08-08",
+      "played": "",
+      "notes": "Crew investigates the supposed kidnapping of of Aisha. "
     }
   ]
 }
