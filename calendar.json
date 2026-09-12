@@ -1,13 +1,13 @@
 {
   "version": 1,
   "campaignId": "night-city-2045",
-  "revision": "1789237891208-r3xn8lvsjtc",
+  "revision": "1789237894596-rdlfne8skv",
   "currentDay": "2045-08-08",
   "events": [
     {
       "id": "event-1789237796053-uq7wli7jixf",
       "title": "Father Kevin needs help!",
-      "type": "session",
+      "type": "gig",
       "start": "2045-08-02",
       "end": "2045-08-02",
       "played": "",
